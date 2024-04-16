@@ -44,10 +44,6 @@ body {
   border-radius: 10px;
 }
 
-.symbol {
-  font-weight: bold;
-}
-
 .blue {
   background-color: rgb(38, 38, 190);
   color: white;
@@ -97,6 +93,10 @@ body {
   font-size: 11px;
   padding-left: 40px;
   padding-bottom: 5px;
+}
+
+.symbol {
+  font-weight: bold;
 }
 
 .name {
