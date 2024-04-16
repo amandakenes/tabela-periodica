@@ -114,3 +114,15 @@ body {
   text-align: center;
   font-weight: bold;
 }
+
+@media screen and (max-width: 1200px) {
+  .side-table {
+    margin: 20px 0 0 35px;
+  }
+}
+
+@media screen and (width > 1200px) and (width < 1350px) {
+  .side-table {
+    margin: 20px 0 0 80px;
+  }
+}
