@@ -97,6 +97,7 @@ body {
 
 .symbol {
   font-weight: bold;
+  font-size: 17px;
 }
 
 .name {
@@ -106,13 +107,14 @@ body {
 
 .two-atomic-numbers {
   text-align: center;
-  padding-left: 0;
+  padding: 0;
   font-size: 11px;
 }
 
 .two-symbol {
   text-align: center;
   font-weight: bold;
+  font-size: 14px;
 }
 
 @media screen and (max-width: 1200px) {
