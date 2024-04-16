@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.periodic-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+.periodic-table th,
+.periodic-table td {
+  padding: 10px;
+  text-align: center;
+  font-size: 14px;
+}
+.periodic-table th {
+  background-color: #f0f0f0;
+}
+
+.side-table {
+  border-collapse: collapse;
+  width: 70%;
+  margin: 20px 10px 0 410px;
+}
+
+.side-table td {
+  padding: 12px;
+  text-align: center;
+  font-size: 14px;
+  border: 3px solid white;
+}
+
+.symbol {
+  font-weight: bold;
+}
+
+#blue {
+  background-color: rgb(38, 38, 190);
+  color: white;
+}
+
+.purple {
+  background-color: rgb(187, 88, 196);
+  color: white;
+}
+
+.pink {
+  background-color: rgb(223, 76, 181);
+  color: white;
+}
+
+.orange {
+  background-color: rgb(228, 126, 53);
+  color: white;
+}
+
+.red {
+  background-color: rgb(232, 35, 35);
+  color: white;
+}
+
+.dark-red {
+  background-color: rgb(130, 27, 27);
+  color: white;
+}
+
+.green {
+  background-color: rgb(41, 202, 78);
+  color: white;
+}
+
+.light-blue {
+  background-color: rgb(85, 222, 217);
+  color: white;
+}
+
+.yellow {
+  background-color: rgb(211, 202, 35);
+  color: white;
+}
+
+.atomic-number {
+  font-size: 12px;
+}
